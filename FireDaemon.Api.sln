@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireDaemon.Api", "FireDaemon.Api\FireDaemon.Api.csproj", "{670B7E30-9FBE-4110-B027-331614F83F34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireDaemon.Api.Tests", "FireDaemon.Api.Tests\FireDaemon.Api.Tests.csproj", "{DE8D459E-ACF6-4FB4-8549-EC09FA5D7C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670B7E30-9FBE-4110-B027-331614F83F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670B7E30-9FBE-4110-B027-331614F83F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670B7E30-9FBE-4110-B027-331614F83F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670B7E30-9FBE-4110-B027-331614F83F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8D459E-ACF6-4FB4-8549-EC09FA5D7C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8D459E-ACF6-4FB4-8549-EC09FA5D7C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8D459E-ACF6-4FB4-8549-EC09FA5D7C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8D459E-ACF6-4FB4-8549-EC09FA5D7C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6783C30F-ECBA-47E3-97C4-3623D1B11C0D}
+	EndGlobalSection
+EndGlobal
